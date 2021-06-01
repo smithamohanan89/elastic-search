@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.smithamohanan89.elasticsearch.services
 
+import com.github.smithamohanan89.elasticsearch.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
